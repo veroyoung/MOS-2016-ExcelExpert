@@ -23,11 +23,14 @@
 # Task 2
 在“出勤”工作表列H中，插入or函数，如果会员出席人数超过任意课程的平均会员出席人数，或非会员人数超过1人，显示为TRUE。否则，显示为FLASE。
 
+
 ![Task2](Task/Task2.jpg)
 
 # Task 2 Answer
 <details>
   <summary>Click to see answer</summary>
+
+`=OR(F2>AVERAGE($F$2:$F$31), G2>1)`
 
 ![Task2_Answer](Excel2016-Expert-Project14-Answer/P14-T2.gif)
 </details>
@@ -41,6 +44,7 @@
 <details>
   <summary>Click to see answer</summary>
 
+`=WEEKDAY(A2,1)`
 ![Task3_Answer](Excel2016-Expert-Project14-Answer/P14-T3.gif)
 </details>
 

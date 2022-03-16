@@ -16,5 +16,7 @@
 <details>
   <summary>Click to see answer</summary>
 
+`=CUBERANKEDMEMBER("ThisWorkbookDataModel",CUBESET("ThisWorkbookDataModel",A5:A10,,2,C3),1)`
+
 ![Task1_Answer](Excel2016-Expert-Project18-Answer/P18-T1.gif)
 </details>

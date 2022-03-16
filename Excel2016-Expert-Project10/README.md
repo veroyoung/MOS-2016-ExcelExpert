@@ -53,6 +53,8 @@
 <details>
   <summary>Click to see answer</summary>
 
+`AND(B3>0,C3>0,D3>0)`
+
 ![Task4_Answer](Excel2016-Expert-Project10-Answer/P10-T4.gif)
 </details>
 

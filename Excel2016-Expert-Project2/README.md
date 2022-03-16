@@ -22,6 +22,8 @@
 <details>
   <summary>Click to see answer</summary>
 
+`=AVERAGE($B3:$M3) < 5`
+
 ![Task2_Answer](Excel2016-Expert-Project2-Answer/P2-T2.gif)
 </details>
 

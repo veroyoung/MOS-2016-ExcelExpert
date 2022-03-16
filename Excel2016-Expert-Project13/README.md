@@ -23,6 +23,8 @@
 # Task 2
 在“年度销售”工作表的单元格L3中，使用条件求和函数计算获得奖金的美国员工的总销售额。
 
+`SUMIFS(C3:C60,B3:B60,"美国*",E3:E60,"是")`
+
 ![Task2](Task/Task2.jpg)
 
 # Task 2 Answer
@@ -40,6 +42,8 @@
 # Task 3 Answer
 <details>
   <summary>Click to see answer</summary>
+
+`VLOOKUP(F3,提成$A$3:$B$10,2,1)`
 
 ![Task3_Answer](Excel2016-Expert-Project13-Answer/P13-T3.gif)
 </details>

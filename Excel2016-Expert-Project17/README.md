@@ -17,6 +17,7 @@
 <details>
   <summary>Click to see answer</summary>
 
+`=PMT(E4/12,E6*12,B6-E5,,1)`
 ![Task1_Answer](Excel2016-Expert-Project17-Answer/P17-T1.gif)
 </details>
 
@@ -29,6 +30,7 @@
 <details>
   <summary>Click to see answer</summary>
 
+`IF(OR(D2>E2*2,D2>G2/12),"是","否")`
 ![Task2_Answer](Excel2016-Expert-Project17-Answer/P17-T2.gif)
 </details>
 
@@ -40,6 +42,8 @@
 # Task 3 Answer
 <details>
   <summary>Click to see answer</summary>
+
+`=$E2>$D2*90%`
 
 ![Task3_Answer](Excel2016-Expert-Project17-Answer/P17-T3.gif)
 </details>
