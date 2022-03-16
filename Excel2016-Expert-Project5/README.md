@@ -13,8 +13,9 @@
 # Task 1 Answer
 <details>
   <summary>Click to see answer</summary>
+`=IF(AND(D2="白金",E2>$I$3),AND(D2="黄金",E2>$I$4),"是","否")`
 
-![Task1_Answer](Excel2016-Expert-Project5-Answer/P5-T1.gif)
+![Task1_Answer](Excel2016-Expert-Project5-Answer/P5-T1.gif)`
 </details>
 
 # Task 2

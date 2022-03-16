@@ -15,6 +15,7 @@
 # Task 1 Answer
 <details>
   <summary>Click to see answer</summary>
+`=INDEX(价格!B2:B5,B3)+(B2-1)*INDEX(价格!C2:C5,B3)`
 
 ![Task1_Answer](Excel2016-Expert-Project4-Answer/P4-T1.gif)
 </details>
