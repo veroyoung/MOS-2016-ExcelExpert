@@ -14,6 +14,8 @@
 <details>
   <summary>Click to see answer</summary>
 
+`VLOOKUP(A2,编号!$A$1:$B$300,2,0)`
+
 ![Task1_Answer](Excel2016-Expert-Project7-Answer/P7-T1.gif)
 </details>
 
@@ -45,6 +47,8 @@
 <details>
   <summary>Click to see answer</summary>
 
+`IF(C2*D2<>0,"都","仅夏季")`
+
 ![Task4_Answer](Excel2016-Expert-Project7-Answer/P7-T4.gif)
 </details>
 
@@ -54,6 +58,8 @@
 # Task 5 Answer
 <details>
   <summary>Click to see answer</summary>
+
+`YEAR(TODAY()) - A2`
 
 ![Task5_Answer](Excel2016-Expert-Project7-Answer/P7-T5.gif)
 </details>

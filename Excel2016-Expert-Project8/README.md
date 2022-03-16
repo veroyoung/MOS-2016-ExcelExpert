@@ -55,5 +55,7 @@
 <details>
   <summary>Click to see answer</summary>
 
+`AND(H3>=1,H4>=1,H5>=1,H6>=1,H7>=1,H8>=1)`
+
 ![Task5_Answer](Excel2016-Expert-Project8-Answer/P8-T5.gif)
 </details>
