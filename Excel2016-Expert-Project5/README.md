@@ -24,8 +24,9 @@
 # Task 2 Answer
 <details>
   <summary>Click to see answer</summary>
+`AVERAGEIFS(E2:E123,B2:B123,"西南",D2:D123,"钻石")`
 
-![Task2_Answer](Excel2016-Expert-Project5-Answer/P5-T2.gif)
+![Task2_Answer](Excel2016-Expert-Project5-Answer/P5-T2.gif)·
 </details>
 
 # Task 3
@@ -34,6 +35,8 @@
 # Task 3 Answer
 <details>
   <summary>Click to see answer</summary>
+`IF(AND(OR(D2="钻石",D2="白金"),B2="东北"),"促销1","促销2")`
+
 ![Task3_Answer](Excel2016-Expert-Project5-Answer/P5-T3.gif)
 </details>
 
@@ -49,12 +52,15 @@
 
 <details>
   <summary>Click to see How pivot table is generated</summary>
-
 ![Task4_Answer](Excel2016-Expert-Project5-Answer/P5-T4-how-pivot-table-is-generated.gif)
 </details>
 
 <details>
   <summary>Click to see answer</summary>
+`GETPIVOTDATA("顾客",A3,"地区","东北","等级","白金")`
+
+
+
 ![Task4_Answer](Excel2016-Expert-Project5-Answer/P5-T4.gif)
 </details>
 
@@ -64,6 +70,5 @@
 # Task 5 Answer
 <details>
   <summary>Click to see answer</summary>
-
 ![Task5_Answer](Excel2016-Expert-Project5-Answer/P5-T5.gif)
 </details>
