@@ -12,7 +12,6 @@
 # Task 1 Answer
 <details>
   <summary>Click to see answer</summary>
-
 ![Task1_Answer](Excel2016-Expert-Project2-Answer/P2-T1.gif)
 </details>
 
@@ -59,13 +58,13 @@
 </details>
 
 
-# Task 5
+# Task 6
 在“质量控制”工作表，在图表中增加一个线性趋势线，使其预测批次答得喵1005到第十二周的合格品率。
 
-# Task 5 Answer
+# Task 6 Answer
 <details>
   <summary>Click to see answer</summary>
 
-![Task5_Answer](Excel2016-Expert-Project2-Answer/P2-T5.gif)
+![Task5_Answer](Excel2016-Expert-Project2-Answer/P2-T6.gif)
 </details>
 
