@@ -33,7 +33,6 @@
 # Task 3 Answer
 <details>
   <summary>Click to see answer</summary>
-
 ![Task3_Answer](Excel2016-Expert-Project5-Answer/P5-T3.gif)
 </details>
 
@@ -42,9 +41,19 @@
 数据透视表已经被增加到数据模型中。在“地区”工作表的H3单元格，使用GETPIVOTDATA来计算东北地区白金级别订阅者的数量。
 
 # Task 4 Answer
+
+## Information before doing this task: How Pivot table is generated
+
+
+
+<details>
+  <summary>Click to see How pivot table is generated</summary>
+
+![Task4_Answer](Excel2016-Expert-Project5-Answer/P5-T4-how-pivot-table-is-generated.gif)
+</details>
+
 <details>
   <summary>Click to see answer</summary>
-
 ![Task4_Answer](Excel2016-Expert-Project5-Answer/P5-T4.gif)
 </details>
 
