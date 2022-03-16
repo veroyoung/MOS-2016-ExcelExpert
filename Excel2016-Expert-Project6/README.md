@@ -33,6 +33,7 @@
 # Task 3 Answer
 <details>
   <summary>Click to see answer</summary>
+`COUNTIFS(B2:B17,">1500",C2:C17,"<180")`
 
 ![Task3_Answer](Excel2016-Expert-Project6-Answer/P6-T3.gif)
 </details>
